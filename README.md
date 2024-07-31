@@ -8,5 +8,5 @@
 
 <!---
 I'm a passionate web developer with a knack for creating dynamic and responsive web applications. 
-I love turning ideas into reality and am always eager to learn new technologies and improve my skills.
+I love turning ideas into reality and am always eager to learn new technologies and improve my skills .
 --->
